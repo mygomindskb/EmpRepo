@@ -1,0 +1,32 @@
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / VS Config
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# Secrets
+secrets.json
+appsettings.Development.json
+appsettings.*.local.json
+
+# Publish profiles
+Properties/PublishProfiles/
+
+# DotNet tools / DB artifacts
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
